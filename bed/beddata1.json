@@ -74,5 +74,38 @@
     "height": 2160,
     "url": "https://www.dongsuhfurniture.co.kr/goods/goods_view.php?goodsNo=7784",
     "imgurl": "https://www.dongsuhfurniture.co.kr/data/goods/18/08/33//7784/7784_magnify_462.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "동서가구 편백나무 원목침대 싱글",
+    "content": "동서가구",
+    "price": "189,000원",
+    "width": 1000,
+    "height": 2010,
+    "url": "https://www.dongsuhfurniture.co.kr/goods/goods_view.php?goodsNo=8728",
+    "imgurl": "https://www.dongsuhfurniture.co.kr/data/goods/19/03/13//8728/8728_magnify_026.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "LV 라노 가죽 흙침대 SS",
+    "content": "동서가구",
+    "price": "469,000원",
+    "width": 1200,
+    "height": 2200,
+    "url": "https://www.dongsuhfurniture.co.kr/goods/goods_view.php?goodsNo=9137",
+    "imgurl": "https://www.dongsuhfurniture.co.kr/data/goods/19/07/28//9137/9137_magnify_062.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "LV 라노 가죽 흙침대 Q",
+    "content": "동서가구",
+    "price": "619,000원",
+    "width": 1600,
+    "height": 2200,
+    "url": "https://www.dongsuhfurniture.co.kr/goods/goods_view.php?goodsNo=9137",
+    "imgurl": "https://www.dongsuhfurniture.co.kr/data/goods/19/07/28//9137/9137_magnify_062.jpg"
   }
 ]
