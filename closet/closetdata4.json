@@ -1,0 +1,111 @@
+[
+  {
+    "id": 0,
+    "title": "[삼익가구]블랑 800 3단 서랍형 옷장",
+    "content": "삼익가구",
+    "price": "99,900원",
+    "width": 800,
+    "height": 580,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=3547",
+    "imgurl": "https://www.samickmall.com/data/goods/17/11/14/3547/3547_Detail0.jpg"
+  },
+
+  {
+    "id": 1,
+    "title": "[삼익가구]유로 고광택 키큰옷장 1600세트(서랍형800+일반형800)",
+    "content": "삼익가구",
+    "price": "214,900원",
+    "width": 1600,
+    "height": 580,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000000050",
+    "imgurl": "https://www.samickmall.com/data/goods/19/01/05//1000000050/1000000050_detail_07.jpg"
+ },
+
+  {
+    "id": 2,
+    "title": "[삼익가구]NEW라움 드레스룸 1200 와이드 2단 행거형",
+    "content": "삼익가구",
+    "price": "89,900원",
+    "width": 1200,
+    "height": 350,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000001055",
+    "imgurl": "https://www.samickmall.com/data/goods/20/05/19//1000001055/register_detail_033.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "[삼익가구]NEW라움 드레스룸 800 1단 행거형",
+    "content": "삼익가구",
+    "price": "54,900원",
+    "width": 800,
+    "height": 350,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000001063",
+    "imgurl": "https://www.samickmall.com/data/goods/20/05/19//1000001063/register_detail_013.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "[삼익가구]블랑 800 전신거울 옷장",
+    "content": "삼익가구",
+    "price": "89,900원",
+    "width": 800,
+    "height": 580,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=3548",
+    "imgurl": "https://www.samickmall.com/data/goods/17/11/14/3548/3548_Detail0.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "[삼익가구]애니 800 3단 서랍형 옷장",
+    "content": "삼익가구",
+    "price": "99,900원",
+    "width": 800,
+    "height": 580,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=3101",
+    "imgurl": "https://www.samickmall.com/data/goods/17/05/11/3101/1494478843103l0.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "[삼익가구]유로 고광택 키큰옷장 1600세트(거울형800+서랍형800)",
+    "content": "삼익가구",
+    "price": "224,900원",
+    "width": 1600,
+    "height": 580,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000000048",
+    "imgurl": "https://www.samickmall.com/data/goods/19/01/05//1000000048/1000000048_detail_062.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "[삼익가구]디데이 서랍형 슬라이딩 옷장 1200",
+    "content": "삼익가구",
+    "price": "259,000원",
+    "width": 1200,
+    "height": 600,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000000996",
+    "imgurl": "https://www.samickmall.com/data/goods/20/04/14//1000000996/register_detail_022.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "[삼익가구]NEW라움 드레스룸 1200 와이드 1단 행거형",
+    "content": "삼익가구",
+    "price": "79,900원",
+    "width": 1200,
+    "height": 350,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000001056",
+    "imgurl": "https://www.samickmall.com/data/goods/20/05/19//1000001056/register_magnify_02.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "[삼익가구]유로 고광택 키큰옷장 1200세트(서랍형800+일반형400)",
+    "content": "삼익가구",
+    "price": "194,900원",
+    "width": 1200,
+    "height": 580,
+    "url": "https://www.samickmall.com/goods/goods_view.php?goodsNo=1000000054",
+    "imgurl": "https://www.samickmall.com/data/goods/19/01/05//1000000054/1000000054_detail_060.jpg"
+  }
+]
